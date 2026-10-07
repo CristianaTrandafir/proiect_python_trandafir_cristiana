@@ -1,0 +1,19 @@
+﻿id_restaurant,nume_restaurant,tip_bucatarie,rating_restaurant
+1,Pizza Napoli,Pizza,4.6
+2,Forno Rustico,Pizza,4.3
+3,Pizzeria Vesuvio,Pizza,4.1
+4,Burger Point,Burgeri,4.4
+5,Smash Bros Burgers,Burgeri,4.7
+6,Grill House,Burgeri,4.0
+7,Sushi Zen,Asiatic,4.5
+8,Wok Express,Asiatic,4.0
+9,Bangkok Street,Asiatic,4.2
+10,La Mama Acasă,Tradițional,4.8
+11,Ciorbe și Plăcinte,Tradițional,4.4
+12,Hanul Bunicii,Tradițional,4.3
+13,Green Bowl,Healthy,4.5
+14,Fresh & Fit,Healthy,4.1
+15,Dulce Cofetărie,Desert,4.6
+16,Waffle Time,Desert,4.2
+17,Shaorma King,Fast-food,3.9
+18,Kebab Istanbul,Fast-food,4.1
